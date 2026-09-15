@@ -74,6 +74,8 @@ GPU capacity to be provisioned when required by the workload.
 
 <img src="screenshots/02-eks-gpu-node.png" />
 
+<img src="screenshots/07-eks-nodes.png" />
+
 <br /><br />
 
 ### 2. LLM Model Storage in Amazon S3
